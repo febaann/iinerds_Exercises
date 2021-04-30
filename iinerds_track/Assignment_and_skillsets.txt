@@ -1,1 +1,99 @@
+Welcome to febz' iinerds track!
+Here you can see my assignments and the skills I learned in my training.
+
+Task 1 
+Understanding Web Development
+19/March/2021
+1.1 How Web Browser works - Working, Architecture
+1.2 Web hosting - Features, Types, ASP, DNS
+
+Task 2
+Basic Frontend
+22/March/2021
+2.1 HTML,CSS,JS Intro - learned the basics and designed webpages using basic HTML, CSS, Js features
+
+Task 3
+Version Control
+23/March/2021
+3.1 Basics of Version Control - Version control, Types
+3.2 Github commands and versioning - Commands, Created a new repository
+
+Task Continued Learning Js
+Javascript Basics
+24/March/2021
+Variables(redeclaring, let), Datatypes, Operators, Functions(sub divisions)
+
+Task Learning Js
+Javascript Basics
+25/March/2021
+Callback functions, promise, loops, API calls, Json Datatype, Json Format, Json request, response
+
+Task 4 Designed a webpage for basic functionalities
+Using, HTML, CSS, Javascript
+26,29 March 2021
+
+Task Continued Learning Javascript
+Deep Foundations of Advanced Js
+29/March/2021
+Scope, Closure, Hoisting, Module
+
+Task 5 Linux, Js, Design Fundamentals
+30/March/2021
+Understanding Linux Commands, Directories, Js promises
+
+Task Js, Design Fundamentals, Linux
+31/March/2021
+Js: JSON, Async, await; Linux: Process Management
+
+Task Js, Linux
+01/April/2021
+Js API, Linux Unix N/w communication utilities
+
+Task Linux, Js, pragmatic Programmer
+05/April/2021
+Linux: Ping, Shell, Shell scripting; Js: Fetch API
+
+06/April/2021
+Election - Holiday
+
+07/April/2021
+Js:Youtube Tutorial, Linux (Top shells)
+
+08/April/2021
+Js: Youtube tutorial, Designing Fundamentals(The pragmatic programmer), Task to design a form with validation
+
+09/April/2021, 12/April/2021
+Completed the Task. Submitted on 12/April/2021
+
+13/April/2021, 15/April/2021
+Correction: corrected the designed form, submitted zip file to Ajith Chettan
+
+16/April/2021, 19/April/2021
+Js: REPL, NPM, callback concept, event loop, buffers, streams, file systems, RESTFul API, module, Events
+
+20/April/2021
+Js: Certification course, Nodejs basics
+
+21/April/2021
+NodeJs Mysql, Js: Browser BOM
+
+22/April/2021
+Learned and prepared a doc of Coding style guidelines
+
+23/April/2021
+NodeJs basics, Js certification course: Covered 50% 
+
+26/April/2021
+Js ES6, Js Certification
+
+27/April/2021
+Js ES6, Js Objects, Did a basic Unit Testing in Jest, Learned Design Patterns
+
+28/April/2021
+Basics of Node.js, Started Rest API with node.js and express framework, Learned Design Pattern (Factory Pattern) of Js, Jest: Unit Testing
+
+
+
+
+Thankyou:)
 
