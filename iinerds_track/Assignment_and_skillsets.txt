@@ -1,4 +1,4 @@
-Welcome to febz' iinerds track!
+Welcome to febziinerdtrack!
 Here you can see my assignments and the skills I learned in my training.
 
 Task 1 
@@ -90,10 +90,71 @@ Js ES6, Js Certification
 Js ES6, Js Objects, Did a basic Unit Testing in Jest, Learned Design Patterns
 
 28/April/2021
-Basics of Node.js, Started Rest API with node.js and express framework, Learned Design Pattern (Factory Pattern) of Js, Jest: Unit Testing
+Basics of Node.js, Started REST API with node.js and express framework, CRUD operations, Learned Design Pattern (Factory Pattern) of Js, Jest: Unit Testing, JWT
+
+29/April/2021
+Did JS Certification Course, MYSQL in workbench
+
+30/April/2021
+MYSQL Workbench basic operations
+
+03/April/2021
+JWT, Covered 70% Js Certification course
+
+04/April/2021
+JWT, Covered Js Certification course
+
+05/April/2021
+DB Transactions, ACID Properties, Rollback,  Did database queries in Node and covered some Js certification
+
+06/April/2021
+Postgres, ORM, Upsert
+
+07/April/2021
+PostgreSQL with nodejs, did Js certification course, Started Sequelize, async, await, promises
+
+10/May/2021
+Js Certification course, Js basics, Sequelize, async, await, promises
+
+11/May/2021
+Sequelize in NodeJs, Js Certification, Assigned a Project 
+
+12/May/2021
+Designed Database
+
+13/May/2021
+Holiday (Idul Fitr)
+
+14/May/2021
+Started Doing Project { Healthcare Management }
+
+17/May - 20/May/2021
+Worked with Project
+
+21/May/2021
+Sick Leave
+
+24/May, 25/May/2021
+Unable to work continuosly using my laptop since my sister was using it for the preparation of her Final Year project Internal Exams
+
+25/May - 03/June/2021
+Worked with Project
+
+03/June/2021
+Presented the Project Demo
+
+04/June/2021
+Started React Js
+
+
+
+
+
+
+
+
 
 
 
 
 Thankyou:)
-
