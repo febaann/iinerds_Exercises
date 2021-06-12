@@ -1,0 +1,17 @@
+//This is a simple code on await in JSON sending data
+//Author - Feba
+//Date - 31-March-2021
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Convert a JavaScript object into a JSON string, and send it to the server.</h2>
+
+<script>
+var myObj = { name: "John", age: 31, city: "New York" };
+var myJSON = JSON.stringify(myObj);
+window.location = "demo_json.php?x=" + myJSON;
+</script>
+
+</body>
+</html>
