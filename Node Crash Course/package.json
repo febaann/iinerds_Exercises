@@ -1,0 +1,11 @@
+{
+  "name": "bestapplicatoin",
+  "version": "1.0.0",
+  "description": "This is just a small crash course on node",
+  "main": "app.js",
+  "scripts": {
+      "develop": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
