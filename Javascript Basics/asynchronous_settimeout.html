@@ -1,0 +1,26 @@
+<!--Datatype: asynchronus  Javascript  -->
+<!--Author: Feba Ann Kurian  -->
+<!--Date: 25-March-2021-->
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Callback</h2>
+
+<p>Wait 3 seconds (3000 milliseconds) for this page to change.</p>
+
+<h1 id="demo"></h1>
+<!--Function running parallel with other functions are clled asynchronous -->
+<!--myFunction is used as a callback.-->
+<!--The function (the function name) is passed to setTimeout() as an argument.-->
+<!--3000 is the number of milliseconds before time-out, so myFunction() will be called after 3 seconds. -->
+<script>
+setTimeout(myFunction, 3000);
+
+function myFunction() {
+  document.getElementById("demo").innerHTML = "hellooo !!";
+}
+</script>
+
+</body>
+</html>

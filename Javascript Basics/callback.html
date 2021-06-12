@@ -1,0 +1,32 @@
+<!--Datatype: callback in Javascript  -->
+<!--Author: Feba Ann Kurian  -->
+<!--Date: 25-March-2021-->
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Callbacks</h2>
+
+<p>Do a calculation and then display the result.</p>
+
+<p id="demo"></p>
+<!-- A callback is a function passed as an argument to another function  -->
+<!-- Here myCalculator is a function and myCallback is another function -->
+<!--which is passed as an argument in myCalculator-->
+<!--Here myCallback will start function after myCalculator starts its function  -->
+<script>
+function myDisplayer(some) {
+  document.getElementById("demo").innerHTML = some;
+}
+
+function myCalculator(num1, num2, myCallback) {
+  let sum = num1 + num2;
+  myCallback(sum);
+}
+
+myCalculator(5, 5, myDisplayer);
+</script>
+
+</body>
+</html>

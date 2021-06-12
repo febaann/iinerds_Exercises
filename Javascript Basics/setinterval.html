@@ -1,0 +1,30 @@
+<!--Datatype: setinterval in  Javascript  -->
+<!--Author: Feba Ann Kurian  -->
+<!--Date: 25-March-2021-->
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript setInterval()</h2>
+
+<p>Using setInterval() to display the time every second (1000 milliseconds).</p>
+
+<h1 id="demo"></h1>
+<!--myFunction is used as a callback.-->
+<!--The function (the function name) is passed to setInterval() as an argument.-->
+<!--1000 is the number of milliseconds between intervals, so myFunction() will be called every second.-->
+
+<script>
+setInterval(myFunction, 1000);
+
+function myFunction() {
+  let d = new Date();
+  document.getElementById("demo").innerHTML=
+  d.getHours() + ":" +
+  d.getMinutes() + ":" +
+  d.getSeconds();
+}
+</script>
+
+</body>
+</html>

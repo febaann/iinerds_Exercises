@@ -1,0 +1,38 @@
+<!--Datatype: switch in  Javascript  -->
+<!--Author: Feba Ann Kurian  -->
+<!--Date: 25-March-2021-->
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript switch</h2>
+
+<p id="demo"></p>
+
+<script>
+var text;
+<!--Here switch statement start. The result of getDay is accepted as 0,1,..-->
+switch (new Date().getDay()) {
+  default:
+    text = "Looking forward to the Weekend";
+	<!--If no cases match, then default will work -->
+	<!--If there is no default, the program continues to the statements after the switch-->
+    break;//When JavaScript reaches a break keyword, it breaks out of the switch block.
+  case 6:
+    text = "Today is Saturday";
+    break;
+  case 0:
+    text = "Today is Sunday";
+	break;
+  case 2:
+    text = "Today is Tuesday";
+	break;
+  case 4:
+    text = "Today is Thursaday"; //Returns this as result because, today is thursday
+	break;//for the last case in the switch statement is is not imortant to use break
+}
+document.getElementById("demo").innerHTML = text;
+</script>
+
+</body>
+</html>
