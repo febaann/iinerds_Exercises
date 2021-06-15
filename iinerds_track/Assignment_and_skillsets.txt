@@ -165,4 +165,11 @@ CRUD operation
 11/June/2021 (Friday)
 CRUD operation
 
+14/June/2021 (Monday)
+Created a Blog on Web Hosting (   https://docs.google.com/document/d/1Je7SCF-3Z4qg58mtowqOF4m1Lm0oHH_vDwD36sh09L4/edit?usp=sharing  )
+Did Js Certification
+
+15/June/2021 (Tuesday)
+Completed Js Certification
+
 Thankyou:))
